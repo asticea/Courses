@@ -1,7 +1,7 @@
 {
   "title": "Covid-19 Classroom catalog",
   "owners": { "ImkbJ27": ["all"] },
-  "viewers": { "ImkbJ27": ["all"], "all": ["all"] },
+  "viewers": { "ImkbJ27": ["all"] },
   "editors": {},
   "copyright": {},
   "catalogInfo": {},
